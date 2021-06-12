@@ -1,10 +1,9 @@
 # The Sparks Foundation Internship(GRIP)
 
-- Task
-
+# Task
 Basic Banking System
 
-- Front end used
+- Front end used : 
 HTML,CSS, JavaScript and Bootstrap
 
 - Back end used
