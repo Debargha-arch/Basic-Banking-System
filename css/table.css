@@ -1,0 +1,38 @@
+h2 {
+	font-size: 40px;
+}
+table {
+	letter-spacing: 1.2px;
+	
+}
+th {
+	background-color: #4CAF50;
+	color: white;
+}
+
+tr:nth-child(even) {
+	background-color:rgb(194, 67, 194);
+}
+
+td {
+	text-align: center;
+}
+button {
+	border:none;
+	background: #36c029;
+    transition: 1s;
+}
+
+button:hover {
+	background-color: rgb(155, 146, 66);
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+	background-color: rgb(105, 120, 122);
+  }
+
+@media only screen and (orientation: portrait) {
+	*{
+		letter-spacing: 1px;
+	}
+}
