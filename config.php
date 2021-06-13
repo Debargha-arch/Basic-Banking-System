@@ -1,6 +1,6 @@
 <?php 
 
-Development connection
+//Development connection
 $server="localhost";
 $username="root";
 $password="";
